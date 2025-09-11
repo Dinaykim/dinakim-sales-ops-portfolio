@@ -29,7 +29,11 @@ I combine hands-on technical skills with process design to drive productivity, a
 > ⚡ Note: Several of the SQL and Python examples were originally written as part of my Le Wagon Data Analytics bootcamp.  
 > I’ve reformatted and documented them here to highlight business relevance as Sales Ops.
 
-- **SQL Queries**: pipeline hygiene, win-rate analysis, quota attainment.  
+- **SQL Queries**
+  - [`pipeline_stage_distribution.sql`](analytics/sql/pipeline_stage_distribution.sql) → Count deals by stage to assess pipeline health, spot bottlenecks, and highlight CRM hygiene issues.  
+  - [`revenue_by_category.sql`](analytics/sql/revenue_by_category.sql) → Analyze top categories by revenue & margin, then deep-dive into repeat behavior and product breadth.  
+  - [`margin_segmentation.sql`](analytics/sql/margin_segmentation.sql) → Classify deals/products into High/Medium/Low margin tiers to guide sales focus and discounting strategy.
+
 - **Python Notebooks**: exploratory analysis and sales KPI modeling.  
 - **dbt Models**: transformations for clean, analysis-ready data.
 
