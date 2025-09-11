@@ -9,6 +9,8 @@ I combine hands-on technical skills with process design to drive productivity, a
 
 - [Looker Studio: Digital Nomad Affordability](https://lookerstudio.google.com/reporting/4238564b-ce46-4723-ac4e-917c7cac0c8f)  
   *Built to compare affordability, digital infrastructure, and productivity across 28 European countries.*
+
+- 🎥 [Watch my presentation on YouTube](https://www.youtube.com/watch?v=-fqlwPO4IiY)
   
 ### 🌍 Global Overview  
   ![Global Overview](dashboards/global_overview.png)
@@ -24,6 +26,9 @@ I combine hands-on technical skills with process design to drive productivity, a
 ---
 
 ## 📈 Analytics & Data
+> ⚡ Note: Several of the SQL and Python examples were originally written as part of my Le Wagon Data Analytics bootcamp.  
+> I’ve reformatted and documented them here to highlight business relevance as Sales Ops.
+
 - **SQL Queries**: pipeline hygiene, win-rate analysis, quota attainment.  
 - **Python Notebooks**: exploratory analysis and sales KPI modeling.  
 - **dbt Models**: transformations for clean, analysis-ready data.
