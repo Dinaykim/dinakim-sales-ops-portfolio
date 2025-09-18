@@ -34,9 +34,8 @@ I combine hands-on technical skills with process design to drive productivity, a
   - [`revenue_by_category.sql`](analytics/sql/revenue_by_category.sql) → Analyze top categories by revenue & margin, then deep-dive into repeat behavior and product breadth.  
   - [`margin_segmentation.sql`](analytics/sql/margin_segmentation.sql) → Classify deals/products into High/Medium/Low margin tiers to guide sales focus and discounting strategy.
 
-- **Python Notebooks**: exploratory analysis and sales KPI modeling.  
-- **dbt Models**: transformations for clean, analysis-ready data.
-
+- **Python Notebooks**:
+  - [`sales_kpi_modeling.ipynb`](analytics/python/sales_kpi_modeling.ipynb) → exploratory analysis and sales KPI modeling.  
 ---
 
 ## 🚀 Enablement Frameworks
