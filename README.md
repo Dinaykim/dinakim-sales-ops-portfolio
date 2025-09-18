@@ -38,10 +38,11 @@ I combine hands-on technical skills with process design to drive productivity, a
   - [`sales_kpi_modeling.ipynb`](analytics/python/sales_kpi_modeling.ipynb) → exploratory analysis and sales KPI modeling.  
 ---
 
-## 🚀 Enablement Frameworks
-- [Onboarding Program](enablement/onboarding-program.md)  
-- [CRM Adoption Guide](enablement/crm-adoption-guide.md)  
-- [Sales Playbook Snippets](enablement/sales-playbook-snippets.md)  
+## 🚀 Enablement Frameworks  
+
+- [`onboarding-checklist.md`](enablement/onboarding-checklist.md) → 3-week blended onboarding path with a week-by-week checklist for CRM training, roleplays, shadowing, and certification. Reduced ramp time from 6 months → 3 months.  
+- [`competency-framework.md`](enablement/competency-framework.md) → Defines expectations for sales reps across product knowledge, sales process, customer engagement, and collaboration, with clear levels from New Hire to Expert.  
+- [`call-evaluation-scorecard.md`](enablement/call-evaluation-scorecard.md) → Coaching tool to evaluate sales calls across opening, discovery, value, objections, and closing, with a structured 1–4 scoring scale and coaching notes.  
 
 ---
 
