@@ -25,7 +25,7 @@ I combine hands-on technical skills with process design to drive productivity, a
 
 - **SQL Queries**
   - [`pipeline_stage_distribution.sql`](analytics/sql/pipeline_stage_distribution.sql) → Count deals by stage to assess pipeline health, spot bottlenecks, and highlight CRM hygiene issues.  
-  - [`revenue_by_category.sql`](analytics/sql/revenue_by_category.sql) → Analyze top categories by revenue & margin, then deep-dive into repeat behavior and product breadth.  
+  - [`revenue_by_category.sql`](analytics/sql/revenue_by_category.sql) → Analyse top categories by revenue & margin, then deep-dive into repeat behaviour and product breadth.  
   - [`margin_segmentation.sql`](analytics/sql/margin_segmentation.sql) → Classify deals/products into High/Medium/Low margin tiers to guide sales focus and discounting strategy.
 
 - **Python Notebooks**:
@@ -34,7 +34,7 @@ I combine hands-on technical skills with process design to drive productivity, a
 
 ## 🚀 Enablement Frameworks  
 
-- [`onboarding-checklist.md`](enablement/onboarding-checklist.md) → 3-week blended onboarding path with a week-by-week checklist for CRM training, roleplays, shadowing, and certification. Reduced ramp time from 6 months → 3 months.  
+- [`onboarding-checklist.md`](enablement/onboarding-checklist.md) → 3-week blended onboarding path with a week-by-week checklist for CRM training, roleplays, shadowing, and certification. Reduced ramp time from 6 months to 3 months.  
 - [`competency-framework.md`](enablement/competency-framework.md) → Defines expectations for sales reps across product knowledge, sales process, customer engagement, and collaboration, with clear levels from New Hire to Expert.  
 - [`call-evaluation-scorecard.md`](enablement/call-evaluation-scorecard.md) → Coaching tool to evaluate sales calls across opening, discovery, value, objections, and closing, with a structured 1–4 scoring scale and coaching notes.  
 
