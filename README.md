@@ -1,4 +1,4 @@
-# Sales Ops & Enablement Portfolio
+# Sales Operations & Enablement Portfolio
 
 Welcome to my portfolio! This repository highlights my work at the intersection of **Sales Operations, Enablement, and Data Analytics**.  
 I combine hands-on technical skills with process design to drive productivity, adoption, and revenue growth.  
