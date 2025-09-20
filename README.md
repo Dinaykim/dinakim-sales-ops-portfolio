@@ -41,17 +41,25 @@ I combine hands-on technical skills with process design to drive productivity, a
 ---
 
 ## 📚 Case Studies
-- [Boosting Sales Productivity from 40% → 85%](case-studies/sales-productivity-boost.md)  
-- [Improving CRM Data Hygiene](case-studies/pipeline-hygiene-improvement.md)  
+- [Boosting Sales Productivity from 40% → 85%](case-studies/sales-productivity-boost)  
+- [Improving CRM Data Hygiene](case-studies/pipeline-hygiene-improvement)  
 
 ---
 
 ## 🛠 Project Management
-For a detailed breakdown of how I scoped, planned, and delivered these projects, see my full [Notion Project Page](link-to-notion).  
+I apply Agile principles to scope, plan, and deliver projects efficiently.  
+For my data analysis bootcamp project, I:  
+- Broke work into short sprints to deliver value iteratively  
+- Used a Kanban board for visibility and accountability  
+- Ran retrospectives to reflect and improve each cycle  
+
+This approach kept our team aligned and ensured on-time delivery of a polished dashboard.  
+
+👉 [View full Notion Project Page](https://www.notion.so/Where-work-meets-travel-274c89da103581b582c4f36413e07a2d?source=copy_link)    
 
 ---
 
 ## 👩‍💻 About Me
-I began my career in SaaS sales and transitioned into Sales Enablement, scaling onboarding and GTM programs across 5 markets and 190 reps. Most recently, I’ve been upskilling in SQL, Python, dbt, and Looker Studio to strengthen the data side of Sales Ops.  
+International SaaS experience across sales, enablement, and operations. Experienced in developing Go-to-Market training and strengthening sales culture through process adoption and accelerating performance. Certified in Data Analytics (Le Wagon), with technical skills in automation, BI, and SQL to deliver measurable business outcomes.
 
 ---
