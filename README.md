@@ -15,12 +15,6 @@ I combine hands-on technical skills with process design to drive productivity, a
 ### 🌍 Global Overview  
   ![Global Overview](dashboards/global_overview.png)
   
-### 💶 Cost & Affordability 
-![Cost vs. Affordability](dashboards/affordability_daily.png)
-
-### 🏙️ Nomad Match Example  
-![Nomad Match](dashboards/nomad_match.png)
-  
 📂 Additional screenshots included in the [`dashboards/`](dashboards/) folder. 
 
 ---
